@@ -1,4 +1,4 @@
-#Joes Github
+## Joes Github
 
 Welcome to my Github! 
 I'm a final year student in Trinity College Dublin courrently completing Masters in Computer Engineering.
