@@ -1,5 +1,4 @@
 # Joe Mulvany
-
 Computer Engineering graduate from Trinity College Dublin (M.Sc. & B.Sc., First Class Honours) currently based in New York.
 
 Interested in backend engineering, distributed systems, cloud infrastructure, and machine learning, with a particular focus on real-world systems design and scalable backend applications.
@@ -16,11 +15,14 @@ My pinned repositories showcase a mixture of academic, research, and production-
 
 ### Privacy-Preserving Federated Disease Prediction
 [MSc Thesis Project](https://github.com/jmulvany127/Privacy-Preserving-Federated-Disease-Prediction-Model)
-
 A federated learning framework for COVID-19 prediction integrating Homomorphic Encryption (CKKS) and Differential Privacy to enable privacy-preserving distributed machine learning on medical imaging data.
 
-### Other Featured Projects
+### Domino AI — Multi-Agent GTM Operating System
+[Portfolio Project](https://github.com/jmulvany127/GTM_AI_Automation)
+A multi-agent AI platform that automates B2B sales pipelines end to end. Leads are analysed by a GTM Orchestrator Agent (Claude AI), handed off to a specialised Outreach Execution Agent that generates personalised content and makes autonomous channel decisions, then synced to HubSpot with Gmail and Slack integration. Built on FastAPI, PostgreSQL, and Docker. Modelled around a fictional PropTech startup selling to multifamily real estate operators.
 
+
+### Other Featured Projects
 - Distributed [train booking cloud platform](https://github.com/jmulvany127/Train_Booking_Cloud_App)
 - Distributed [peer-to-peer communication network](https://github.com/jmulvany127/P2PCommsAndDatabase)
 - Unity-based multiplayer [racing game](https://github.com/jmulvany127/CoolRacer)
